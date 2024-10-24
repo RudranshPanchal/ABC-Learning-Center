@@ -22,31 +22,24 @@ Welcome to **ABC Learning Center**! This is an online e-learning platform for te
    git clone https://github.com/yourusername/ABC-Learning-Center.git
    cd ABC-Learning-Center
 
-# Screenshot - 
+## Screenshots 📸
 
-![Index 02 05-16_47_21](https://github.com/user-attachments/assets/8e38f47c-d3b2-49b0-92e2-9ee32349a72d)
+![screenshot-127 0 0 1_5500-2022 02 02-14_09_00](https://github.com/user-attachments/assets/fcb582e3-af5c-4c04-814f-d30077e4eb2a)
 
+![screenshot-127 0 0 1_5500-2022 02 02-14_07_33](https://github.com/user-attachments/assets/af59a5c4-6549-4a21-893d-0fe1c0e2a8b7)
 
-![screenshot-127 0 0 1_5500-2022 02 02-14_07_33](https://github.com/user-attachments/assets/ef8f576e-bf40-44ce-bbb7-9712f6020844)
+![screenshot-127 0 0 1_5500-2022 02 02-14_04_54](https://github.com/user-attachments/assets/e3b5b64c-906e-4051-9b49-056fadf5af91)
 
+![screenshot-127 0 0 1_5500-2022 02 05-16_46_12](https://github.com/user-attachments/assets/f2839d62-6285-4a20-8b99-67f0b318eeab)
 
-![screenshot-127 0 0 1_5500-2022 02 02-1![screenshot-127 0 0 1_5500-2022 02 02-14_09_46](https://github.com/user-attachments/assets/98e6df75-27f3-47a9-92f9-051ee07c6341)
+![screenshot-127 0 0 1_5500-2022 02 05-16_42_28](https://github.com/user-attachments/assets/37dd18f0-bba7-45b7-8d4b-3ed2a85c450b)
 
+![screenshot-127 0 0 1_5500-2022 02 02-15_36_58](https://github.com/user-attachments/assets/0e81fa79-67dd-4438-abad-5611e36ca7e7)
 
-4_09_00](https://github.com/user-attachments/assets/13673e81-5d73-4cd9-a54e-c8716137be92)
+![screenshot-127 0 0 1_5500-2022 02 02-15_12_37](https://github.com/user-attachments/assets/5c779c41-34aa-425c-a357-631308135800)
 
+![screenshot-127 0 0 1_5500-2022 02 02-14_11_49](https://github.com/user-attachments/assets/b34ca02f-83a0-4d9e-95c3-2885c54b7a05)
 
-![screenshot-127 0 0 1_5500-2022 02 02-14_11_49](https://github.com/user-attachments/assets/77c1866e-9b7f-4dcd-a2a4-3612326cafbf)
+![screenshot-127 0 0 1_5500-2022 02 02-14_09_46](https://github.com/user-attachments/assets/91309685-5d12-45cd-83f8-ac31fdf1d9c1)
 
-
-![screenshot-127 0 0 1_5500-2022 02 02-14_38_17](https://github.com/user-attachments/assets/b8f4ba2a-d583-4dfe-96c7-4916d1030f71)
-
-
-![screenshot-127 0 0 1_5500-2022 02 02-15_36_58](https://github.com/user-attachments/assets/00f866a6-a3de-4fbc-a6b0-d03f7dbbe03e)
-
-
-![screenshot-127 0 0 1_5500-2022 02 05-16_42_28](https://github.com/user-attachments/assets/6a797908-71e2-4540-b4ab-9a85e66ff5a1)
-
-
-![screenshot-127 0 0 1_5500-2022 02 05-16_46_12](https://github.com/user-attachments/assets/6315a70e-0d34-410c-8763-4ad6dcd52cca)
 

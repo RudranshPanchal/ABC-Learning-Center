@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+    <title>Course Schedule</title>
+    <script src="js/jquery-3.6.0.js"></script>
+    <style>
+        body {
+            background-color: plum;
+        }
+
+        h2 {
+            color: maroon;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1> ABC Learning Center </h1>
+    <h2>Course schedule</h2>
+    </div>
+    <div id="navbars" style="background-color: black;">
+        <table style="width: 100%; float: right; text-align: center; margin-top: 30px;
+text-decoration: none;">
+            <tr class="nvv">
+                <th> <a style="color: cornsilk;" href="index.html">Home</a></th>
+                <th> <a style="color: cornsilk;" href="courses.html">courses</a></th>
+                <th> <a style="color: cornsilk;" href="aboutus.html">About Us</a></th>
+                <th> <a style="color: cornsilk;" href="privacy policy.html">Privacy Policy</a></th>
+                <th> <a style="color: cornsilk;" href="Contact us.html">Contact Us</a></th>
+            </tr>
+
+        </table>
+    </div>
+
+    </div>
+    <br><br><br><br><br>
+
+    <script>
+        $(function () { // Dropdown toggle
+            $('.dropdown-toggle').click(function () {
+                $(this).next('.dropdown').slideToggle();
+            });
+
+            $(document).click(function (e) {
+                var target = e.target;
+                if (!$(target).is('.dropdown-toggle') && !$(target).parents().is('.dropdown-toggle'))
+                //{ $('.dropdown').hide(); }
+                { $('.dropdown').slideUp(); }
+            });
+        }); 
+    </script>
+
+    <div id="nav">
+        <a class="dropdown-toggle" href="#">Courses Schedule</a>
+        <ul class="dropdown">
+            <li><a href="#css">Css</a></li>
+            <li><a href="#python">Python</a></li>
+            <li><a href="#c++">C++</a></li>
+            <li><a href="#java">Java</a></li>
+        </ul>
+    </div>
+
+    <div class table1>
+        <table border="3px">
+            <tr>
+                <th>S.No</th>
+                <th>Day</th>
+                <th>date</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Monday</td>
+                <td>03-01-2022</td>
+                <td>9:00 am</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Tuseday</td>
+                <td>04-01-2022</td>
+                <td>9:00 am</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Wednesday</td>
+                <td>05-01-2022</td>
+                <td>9:00 am</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Thuseday</td>
+                <td>06-01-2022</td>
+                <td>9:00 am</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>friday</td>
+                <td>07-01-2022</td>
+                <td>9:00 am</td>
+            </tr>
+        </table>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="footer">
+        <table style="width:90%;; margin-left: 50px;text-align: center;">
+            <tbody>
+                <tr>
+                    <th>
+                        <h5>About Coding</h5>
+                    </th>
+                    <th>
+                        <h5>Links</h5>
+                    </th>
+
+                    <th>
+                        <h5>Social Media</h5>
+                    </th>
+                </tr>
+                <tr>
+                    <td style="width:40%;">
+                        <p>We're passionate about teaching people how to do better coding for their online presence</p>
+                    </td>
+                    <td>
+                        <a href="terms and condition.html">Terms &amp; Conditions</a>
+                        <br>
+                        <a href="privacy policy.html">Privacy Policy</a>
+                    </td>
+
+                    <td>
+                        <p>For news &amp; updates follow us</p>
+                        <a href="#">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-pinterest-p"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="copyright">
+        <table style="text-align: center;width: 100%;">
+            <tr>
+                <th>
+                    <p class="p-small">Abc learning center Copyright © 2021 - All rights reserved</p>
+                </th>
+            </tr>
+        </table>
+    </div>
+
+
+</body>
+
+</html>

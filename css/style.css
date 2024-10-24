@@ -1,0 +1,169 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.navbar #nvv th a{
+  text-decoration: none;
+}
+
+
+.menu{
+
+	width: 100%;
+	height: 100px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.leftmenu{
+	width: 100%;
+	line-height: 90px;
+	float: left;
+
+/*	background-color: yellow;*/
+}
+
+.leftmenu h1{
+	padding-left: 70px;
+	font-size: 51px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	font-size: 40x;
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.rightmenu{
+	width:70%;
+	height: 2px;
+	padding-top:none;
+	float: right;
+/*	background-color: red; */
+}
+
+.rightmenu ul{
+	margin-left: 200px;
+	padding-top: none;
+
+}
+
+.rightmenu ul li {
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color:white;
+	font-weight: bold;
+	line-height: 1px;
+	margin-left: 40px;
+	text-transform: uppercase;
+
+}
+
+
+.rightmenu ul li:hover {
+	font-size: 20px ;
+	font-weight: bolder;
+}
+
+
+#fisrtlist{
+	color: orange;
+	padding-top: 2px;
+}
+
+.rightmenu ul li:hover{
+	color: orange;
+}
+
+
+.text{
+	width: 100%;
+	margin-top: 185px;
+	text-transform: uppercase;
+	text-align: center;
+	color:white;
+}
+
+.text h4{
+
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+.text h1:hover{
+  font-size: 33px;
+  color: white;
+  transityion: ease-in;
+  font-weight: bolder;
+  text-shadow: 2px 2px 5px #1b273b;
+  transform: scale(1);
+  transition: all 0.4s ease-in-out 0.2s;
+}
+.text h1{
+	font-size:32px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700px;
+	margin:14px 0px;
+	transform: translateY(1px);
+  transition: all 0.3s ease-in-out 0.1s;
+}
+
+.text h3{
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#buttonone{
+	background-color: white;
+	border: none;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 40px;
+	width: 150px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 25px;
+	border-radius: 20px;
+	border: 3px solid white;
+	margin:14px 0px;
+  transform: translateY(1px);
+  transition: all 0.3s ease-in-out 0.1s;
+}
+#buttonone:hover{
+  font-size: 15px;
+  line-height: 50px;
+  border-radius:20px;
+  width: 180px;
+  transform: scale(1);
+  transition: all 0.4s ease-in-out 0.2s;
+}
+
+#buttontwo{
+
+	background-color: transparent;
+	color: white;
+	border: none;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 40px;
+	border: 3px solid white;
+	width: 150px;
+	border-radius: 20px;
+	margin:14px 0px;
+	transform: translateY(1px);
+  transition: all 0.3s ease-in-out 0.1s;
+}
+#buttontwo:hover{
+
+  font-size: 15px;
+ line-height: 50px;
+border-radius:20px;
+width: 180px;
+transform: scale(1);
+transition: all 0.4s ease-in-out 0.2s;
+}
+
+.nvv
